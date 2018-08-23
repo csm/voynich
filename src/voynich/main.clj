@@ -1,4 +1,5 @@
 (ns voynich.main
+  (:gen-class)
   (:require [clojure.java.io :as io]
             [clojure.tools.cli :as cli]
             [msgpack.core :as msgpack]
