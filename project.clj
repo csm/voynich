@@ -1,4 +1,4 @@
-(defproject com.github.csm/voynich "0.1.0-SNAPSHOT"
+(defproject com.github.csm/voynich "0.1.0"
   :description "Multi-party encryption tool."
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
