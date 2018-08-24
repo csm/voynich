@@ -4,7 +4,7 @@ Multi-party file encryption.
 
 ## Installation
 
-TBD
+Download uberjars [from GitHub](https://github.com/csm/voynich/releases).
 
 ## Usage
 
